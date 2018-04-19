@@ -1,0 +1,10 @@
+aiohttp
+async-timeout
+attrs
+chardet
+idna
+idna-ssl
+lxml
+multidict
+redis
+yarl

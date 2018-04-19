@@ -1,0 +1,29 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.log
+dist
+build
+full
+Video
+logs
+images
+*-bak
+
+
+# pycharm:
+.idea
+
+
+# project
+local_config.py
+result.log
+*-bak.py
